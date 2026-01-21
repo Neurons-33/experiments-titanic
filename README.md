@@ -29,7 +29,8 @@
 
 
 ### Depth = 1 Configuration
-<img width="508" height="136" alt="image" src="https://github.com/user-attachments/assets/b3596088-fac7-4e8d-8c18-6e08d63f4a72" />
+<img width="508" height="137" alt="image" src="https://github.com/user-attachments/assets/28c87b6e-8b63-4d74-be51-a4d6a63e14ff" />
+
 
 <!-- spacer -->
 **Observation**
@@ -45,7 +46,8 @@
 <!-- spacer -->
 
 ### Depth = 2 Configuration
-<img width="509" height="139" alt="image" src="https://github.com/user-attachments/assets/cc8abb4e-d6f1-4510-bbcd-2cd2cde08217" />
+<img width="504" height="138" alt="image" src="https://github.com/user-attachments/assets/c75c0a94-6c1e-45ed-9a2e-7e15768871c6" />
+
 
 <!-- spacer -->
 **Observation**
@@ -67,7 +69,8 @@
 ## Feature Impact on Training Behavior
 
 ### Depth = 1 Configuration (With Additional Feature: Pclass)
-<img width="508" height="137" alt="image" src="https://github.com/user-attachments/assets/0bf3008b-128d-49c7-a436-85882b1c6d83" />
+<img width="507" height="136" alt="image" src="https://github.com/user-attachments/assets/8446ee69-8d9e-4af9-8b21-752ce540d0e1" />
+
 
 <!-- spacer -->
 **Observation**
